@@ -1,0 +1,19 @@
+IP
+DNS
+TCP
+HTTP, SSH, P2P
+
+WWW
+
+mime types
+text/html
+text/css
+text/JavaScript
+image/png
+video/mp4
+application/json
+
+url
+uri
+
+

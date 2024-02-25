@@ -1,0 +1,23 @@
+
+json api
+
+
+graph ql
+
+graph ql vs grpc vs rest
+
+монорепозиторий
+
+AMP страницы
+
+typescript jsdoc
+
+wasm
+
+ограничения vite
+esbuild vs babel in bundlers
+
+virtual dom vs incrimental dom
+angular - incrimental dom
+vue - vitrual dom
+

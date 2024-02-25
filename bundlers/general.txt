@@ -1,0 +1,6 @@
+В чем разница webpack, vite, parcel? Когда какой сборщик лучше использовать?
+esbuild, babel
+
+hot module replacement
+
+treeshaking
